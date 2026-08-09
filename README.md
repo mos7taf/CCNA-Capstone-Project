@@ -22,6 +22,9 @@ The network was designed to simulate a real-world enterprise environment where d
 Segmentation + Redundancy + Security + Centralized IT Management + High Availability
 
 ## 🗺️ Network Architecture
+![Network Topology](images/topology.png)
+
+📂 [View all topology screenshots](images/)
 
 ```
                          🌍 INTERNET
